@@ -1,0 +1,26 @@
+Spearman rho: 0.9966, p-value: 3.5449e-23
+Top-10 overlap: 10 / 10
+
+Top features (full sample):
+person_income
+loan_percent_income
+loan_int_rate
+person_home_ownership_RENT
+loan_intent_VENTURE
+loan_amnt
+person_home_ownership_OWN
+loan_grade_D
+person_emp_length
+person_age
+
+Top features (subsample):
+person_income
+loan_percent_income
+loan_int_rate
+person_home_ownership_RENT
+loan_intent_VENTURE
+person_home_ownership_OWN
+loan_amnt
+loan_grade_D
+person_age
+person_emp_length

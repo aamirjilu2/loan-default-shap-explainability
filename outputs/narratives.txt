@@ -1,0 +1,71 @@
+Position 195 (index label 32286) — true=0 pred=1 prob=0.96882563829422
+Top positive SHAP contributors (pushing prediction up):
+ - loan_grade_D = True: SHAP 3.0987
+ - loan_int_rate = 13.99: SHAP 0.7528
+ - person_emp_length = 21.0: SHAP 0.6775
+ - loan_intent_VENTURE = False: SHAP 0.4858
+ - loan_intent_PERSONAL = False: SHAP 0.3939
+Top negative SHAP contributors (pushing prediction down):
+ - person_home_ownership_OTHER = False: SHAP -0.0017
+ - loan_grade_G = False: SHAP -0.0109
+ - loan_grade_F = False: SHAP -0.0189
+ - loan_grade_E = False: SHAP -0.0578
+ - cb_person_default_on_file_Y = False: SHAP -0.1219
+
+
+Position 3965 (index label 10917) — true=0 pred=1 prob=0.9435241222381592
+Top positive SHAP contributors (pushing prediction up):
+ - loan_grade_D = True: SHAP 2.7529
+ - loan_int_rate = 14.11: SHAP 1.0494
+ - loan_intent_PERSONAL = False: SHAP 0.4945
+ - loan_intent_EDUCATION = False: SHAP 0.3901
+ - loan_intent_MEDICAL = True: SHAP 0.3309
+Top negative SHAP contributors (pushing prediction down):
+ - person_home_ownership_OTHER = False: SHAP -0.0010
+ - loan_grade_G = False: SHAP -0.0110
+ - loan_grade_F = False: SHAP -0.0248
+ - loan_grade_E = False: SHAP -0.0497
+ - person_age = 26.0: SHAP -0.1394
+
+
+Position 1469 (index label 15429) — true=0 pred=0 prob=9.219921537351183e-08
+Top positive SHAP contributors (pushing prediction up):
+ - loan_amnt = 16000.0: SHAP 0.3520
+ - loan_intent_EDUCATION = False: SHAP 0.1308
+ - loan_intent_PERSONAL = False: SHAP 0.0292
+ - cb_person_cred_hist_length = 3.0: SHAP 0.0135
+Top negative SHAP contributors (pushing prediction down):
+ - person_home_ownership_OTHER = False: SHAP -0.0024
+ - loan_grade_G = False: SHAP -0.0113
+ - loan_intent_MEDICAL = False: SHAP -0.0155
+ - loan_grade_B = False: SHAP -0.0239
+ - loan_grade_D = False: SHAP -0.1171
+
+
+Position 5002 (index label 14879) — true=0 pred=0 prob=1.2685362094089214e-07
+Top positive SHAP contributors (pushing prediction up):
+ - loan_intent_EDUCATION = False: SHAP 0.1076
+ - loan_intent_PERSONAL = False: SHAP 0.0185
+ - loan_grade_B = False: SHAP 0.0182
+ - cb_person_cred_hist_length = 3.0: SHAP 0.0153
+Top negative SHAP contributors (pushing prediction down):
+ - person_home_ownership_OTHER = False: SHAP -0.0021
+ - loan_grade_G = False: SHAP -0.0115
+ - loan_intent_MEDICAL = False: SHAP -0.0157
+ - loan_amnt = 14000.0: SHAP -0.0464
+ - loan_intent_HOMEIMPROVEMENT = False: SHAP -0.1194
+
+
+Position 2789 (index label 24801) — true=1 pred=0 prob=0.0010767653584480286
+Top positive SHAP contributors (pushing prediction up):
+ - loan_intent_VENTURE = False: SHAP 0.3463
+ - person_home_ownership_OWN = False: SHAP 0.1027
+ - loan_intent_PERSONAL = False: SHAP 0.0824
+ - loan_intent_MEDICAL = False: SHAP 0.0689
+ - loan_grade_B = False: SHAP 0.0686
+Top negative SHAP contributors (pushing prediction down):
+ - person_home_ownership_OTHER = False: SHAP -0.0019
+ - loan_grade_G = False: SHAP -0.0117
+ - loan_grade_F = False: SHAP -0.0205
+ - person_age = 28.0: SHAP -0.0398
+ - cb_person_default_on_file_Y = False: SHAP -0.0468

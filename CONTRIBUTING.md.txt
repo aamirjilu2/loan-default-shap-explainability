@@ -1,0 +1,10 @@
+# Contributing
+
+Thanks for your interest! To contribute:
+
+1. Fork the repository.
+2. Create a new branch `feature/your-feature`.
+3. Run tests / lint locally.
+4. Submit a pull request with a clear description.
+
+Be polite and write tests for new functionality if possible.

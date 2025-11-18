@@ -1,6 +1,9 @@
 # loan-default-shap-explainability
 SHAP explainability for loan default prediction using XGBoost. Includes global and local SHAP analysis, stability testing, narrative case studies, and a complete interpretability report.
+
+
 README – SHAP Explainability Project
+
 Project Overview
 This project applies SHAP (Shapley Additive exPlanations) to interpret an XGBoost machine learning model built for predicting loan default risk. The goal is to provide transparent global and local explanations, evaluate stability, and generate actionable insights.
 Project Structure
